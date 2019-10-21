@@ -24,7 +24,7 @@ class Layout extends Component {
       path_prefix = './';
     }
     else {
-      path_prefix = 'https://lusi-dataviz.ylestatic.fi/2019_turvapaikanhakijatilanne/';
+      path_prefix = '';
     }
     axios.get(path_prefix + 'data/data.json', {
     })
