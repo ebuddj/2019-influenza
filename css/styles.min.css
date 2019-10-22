@@ -1,8 +1,11 @@
 @import url(https://fonts.googleapis.com/css?family=Anton:400.css);
-.h3_wrapper___2lEW4 {
+.app___2khK2 {
+  /* General styles */
+}
+.app___2khK2 .h3_wrapper___2lEW4 {
   background-color: #e0023f;
 }
-.h3___CSqcu {
+.app___2khK2 .h3___CSqcu {
   color: #fff;
   font-family: 'Anton', verdana;
   font-size: 28px;
@@ -14,11 +17,11 @@
   box-sizing: border-box;
   text-align: center;
 }
-.h4_wrapper___2Z4JG {
+.app___2khK2 .h4_wrapper___2Z4JG {
   max-width: 320px;
   margin: auto auto 10px auto;
 }
-.h4___3UwBV {
+.app___2khK2 .h4___3UwBV {
   background-color: #e0023f;
   box-sizing: border-box;
   color: #fff;
@@ -30,20 +33,14 @@
   max-width: 320px;
   padding: 10px;
 }
-.h3___CSqcu .verdana___75nkE {
-  font-family: 'verdana';
-}
-.h4___3UwBV .verdana___75nkE {
-  font-family: 'verdana';
-}
-.h5___3GPBz {
+.app___2khK2 .h5___3GPBz {
   font-family: 'Anton', verdana;
   font-size: 18px;
   font-weight: 400;
   letter-spacing: 0.04em;
   margin: auto auto 10px auto;
 }
-.p___1n8tF {
+.app___2khK2 .p___1n8tF {
   font-family: 'Anton', verdana;
   font-size: 13px;
   letter-spacing: 0.04em;
@@ -52,7 +49,7 @@
   margin: 0 auto 0 auto;
   max-width: 320px;
 }
-.p_tooltip___3yVrF {
+.app___2khK2 .p_tooltip___3yVrF {
   color: #e0023f;
   font-family: 'Anton', verdana;
   font-size: 13px;
@@ -62,52 +59,55 @@
   margin: 0 auto 0 auto;
   max-width: 320px;
 }
-.a___2CG2e {
+.app___2khK2 .a___2CG2e {
   font-family: 'Anton', verdana;
   color: #000;
 }
-.slider_wrapper___3IiAH {
+.app___2khK2 .slider_wrapper___3IiAH {
   background-color: #fff;
-  padding-top: 20px;
+  margin: 20px 0 10px 50px;
 }
-.slider_container___35Luy {
+.app___2khK2 .slider_wrapper___3IiAH .slider_container___35Luy {
   margin: auto auto auto auto;
-  max-width: 300px;
+  max-width: 800px;
 }
-.map_wrapper___24h-F {
+.app___2khK2 .map_wrapper___24h-F {
   background-color: #fff;
   overflow: hidden;
 }
-.map_container___22zRx {
+.app___2khK2 .map_container___22zRx {
   margin: auto auto;
   overflow: hidden;
 }
-svg {
+.app___2khK2 svg {
   overflow: hidden;
   display: block;
   margin: auto auto;
 }
-.path___3EPLl {
+.app___2khK2 svg text {
+  display: none;
+}
+.app___2khK2 .path___3EPLl {
   stroke-width: 1px;
 }
-.selected___3Z1JC {
+.app___2khK2 .selected___3Z1JC {
   stroke-width: 2px;
   stroke: #e0023f;
 }
-.selected_country___m_uTp {
+.app___2khK2 .selected_country___m_uTp {
   font-family: 'Anton', verdana;
   margin: auto auto;
   max-width: 320px;
   text-align: center;
 }
-.text___3fVPW {
+.app___2khK2 .text___3fVPW {
   fill: #000;
   font-family: 'Anton', verdana;
   font-size: 36px;
   font-weight: 400;
   letter-spacing: 0.04em;
 }
-.tooltip___MFNHN {
+.app___2khK2 .tooltip___MFNHN {
   background: #fff;
   border-radius: 3px;
   box-shadow: 0px 0px 2px 0px #a6a6a6;
@@ -117,37 +117,36 @@ svg {
   position: absolute;
   width: 150px;
 }
-.nowrap___2n1o8 {
+.app___2khK2 .nowrap___2n1o8 {
   white-space: nowrap;
 }
-/* General styles */
-.clearfix___1yHqr {
+.app___2khK2 .clearfix___1yHqr {
   zoom: 1;
 }
-.clearfix___1yHqr:after {
+.app___2khK2 .clearfix___1yHqr:after {
   clear: both;
   content: ' ';
   display: block;
   height: 0;
   visibility: hidden;
 }
-.ss-terms___dMEZ6 {
+.app___2khK2 .ss-terms___dMEZ6 {
   margin: 40px auto auto auto;
   max-width: 450px;
 }
-.meta___3gcNx {
+.app___2khK2 .meta___3gcNx {
   color: #333;
   font-size: 13px;
   line-height: 16px;
   padding: 0 10px 40px 10px;
 }
-.clear_both___a0DL_ {
+.app___2khK2 .clear_both___a0DL_ {
   clear: both;
 }
-.hidden___1aMNf {
+.app___2khK2 .hidden___1aMNf {
   display: none;
 }
-.nowrap___2n1o8 {
+.app___2khK2 .nowrap___2n1o8 {
   white-space: nowrap;
 }
 
