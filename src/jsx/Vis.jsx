@@ -41,7 +41,7 @@ const month_names = {
   '2019 Week 04':'January',
   '2019 Week 05':'January',
   '2019 Week 06':'February',
-  '2019 Week 07':'Fextxtbruary',
+  '2019 Week 07':'February',
   '2019 Week 08':'February',
   '2019 Week 09':'February',
   '2019 Week 10':'March',
@@ -81,7 +81,7 @@ class Vis extends Component {
   constructor() {
     super();
     this.state = {
-      date_index:0,
+      date_index:9,
       height:0,
       width:0
     }
@@ -211,7 +211,6 @@ class Vis extends Component {
     setTimeout(() => {
       this.createInterval();
     }, 3000);
-
     this.updateWindowDimensions();
     window.addEventListener('resize', this.updateWindowDimensions);
   }
@@ -226,14 +225,14 @@ class Vis extends Component {
     });
   }
   createInterval() {
-    let counter = 600;
+    let counter = 800;
     let self = this;
     let myFunction = function() {
-      if (self.state.date_index >= (self.dates.length - 1)) {
+      if (self.state.date_index >= (self.dates.length - 19)) {
         clearTimeout(timeout_var);
         setTimeout(() => {
           self.setState((state, props) => ({
-            date_index:0
+            date_index:9
           }), self.createInterval);
         }, 2000);
       }
@@ -303,13 +302,23 @@ class Vis extends Component {
       this.text1.html(this.dates[this.state.date_index]);
       this.text2.html(month_names[this.dates[this.state.date_index]]);
     }
+    const marks = {
+      9: 'December',
+      13: 'January 2019',
+      18: 'February',
+      22: 'March',
+      26: 'April',
+      30: 'May'
+    };
     return (
       <div>
         <div className={style.slider_wrapper}>
           <Slider
             className={style.slider_container}
             dots={false}
-            max={this.dates.length - 1}
+            max={this.dates.length - 19}
+            min={9}
+            marks={marks}
             onAfterChange={this.onAfterSliderChange.bind(this)}
             onBeforeChange={this.onBeforeSliderChange}
             onChange={this.onSliderChange.bind(this)}

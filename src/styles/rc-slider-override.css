@@ -8,9 +8,19 @@
   background-color: #2e3441;
   border-color: rgba(27, 64, 152, 1);
 }
+.rc-slider-dot {
+  border-color: #2e3441;
+}
 .rc-slider-handle:focus,
 .rc-slider-handle:hover,
 .rc-slider-handle:active {
   border-color: rgba(27, 64, 152, 1);
   box-shadow: 0 0 5px rgba(27, 64, 152, 1);
+}
+.rc-slider-mark-text {
+  font-size: 20px;
+  padding-left: 140px;
+}
+.rc-slider-mark-text.rc-slider-mark-text-active {
+  color: #000;
 }

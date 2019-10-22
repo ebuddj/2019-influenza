@@ -40,7 +40,7 @@ class Layout extends Component {
   }
   render() {
     return (
-      <div className={style.wrapper}>
+      <div className={style.app}>
         <Vis data={this.state.data} />
         <p className={style.p}>Source: <a href="http://flunewseurope.org/" className={style.a}>Flu News Europe</a></p>
       </div>
