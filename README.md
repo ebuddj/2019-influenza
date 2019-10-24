@@ -15,6 +15,12 @@ The visualization shows how the influenza epidemic spread from December 2018 to 
 
 It has been studied why influenza is more common during the winter. There are a couple of reasons. First, it has been suggested that while people spend more time inside it is easier for the virus to spread from person to person. Second, it has been studied that in cold air the virus freezes in the air and has more time to spread from person to person. In warm air the virus disassembles before it has time to attach itself to a new person. 
 
+**Influenza situation on Week 41/2019 (7–13 October 2019)**
+* Influenza activity was low throughout the European Region.
+* Influenza viruses were detected sporadically in specimens from persons with respiratory illnesses presenting to medical care.
+* Both influenza A and B type viruses were detected.
+* Data from the 20 countries or regions reporting to the EuroMOMO project indicated all-cause mortality to be at expected levels for this time of the year.
+
 *Sources*: 
 * [Earthnetworks](https://www.earthnetworks.com/blog/flu-season-strikes-winter)
 * [Flunewseurope](http://flunewseurope.org)
