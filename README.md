@@ -15,7 +15,7 @@ The visualization shows how the influenza epidemic spread from December 2018 to 
 
 It has been studied why influenza is more common during the winter. There are a couple of reasons. First, it has been suggested that while people spend more time inside it is easier for the virus to spread from person to person. Second, it has been studied that in cold air the virus freezes in the air and has more time to spread from person to person. In warm air the virus disassembles before it has time to attach itself to a new person. 
 
-Sources: 
+*Sources*: 
 * [Earthnetworks](https://www.earthnetworks.com/blog/flu-season-strikes-winter)
 * [Flunewseurope](http://flunewseurope.org)
 
