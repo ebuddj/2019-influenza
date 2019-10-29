@@ -2,7 +2,7 @@
 
 **Live demo** https://ebuddj.github.io/2019-influenza
 
-## Influenza season 2018–2019 in Europe (EBU)
+## Influenza Season 2018–2019 in Europe (EBU)
 
 The visualization shows how the influenza epidemic spread from December 2018 to May 2019 in Europe. The map represents the intensity of the epidemic. Each country on each week is presented with a colour representing the status of the epidemic. The level of the intensity is divided into 5 levels: 
 1. Baseline
