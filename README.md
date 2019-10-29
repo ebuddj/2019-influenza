@@ -1,8 +1,8 @@
 # 2019-influenza
 
-**Live demo**: https://ebuddj.github.io/2019-influenza
+**Live demo** https://ebuddj.github.io/2019-influenza
 
-## Influenza season 2018–2019 in Europe 
+## Influenza season 2018–2019 in Europe (EBU)
 
 The visualization shows how the influenza epidemic spread from December 2018 to May 2019 in Europe. The map represents the intensity of the epidemic. Each country on each week is presented with a colour representing the status of the epidemic. The level of the intensity is divided into 5 levels: 
 1. Baseline
@@ -21,7 +21,7 @@ It has been studied why influenza is more common during the winter. There are a 
 * Both influenza A and B type viruses were detected.
 * Data from the 20 countries or regions reporting to the EuroMOMO project indicated all-cause mortality to be at expected levels for this time of the year.
 
-**Sources**: 
+**Sources**
 * [Earthnetworks](https://www.earthnetworks.com/blog/flu-season-strikes-winter)
 * [Flunewseurope](http://flunewseurope.org)
 
@@ -33,13 +33,14 @@ This visualization is part of the EBU News Exchange’s Data Journalism project.
 
 ## Rights of usage
 
-EBU Members and Sublicensees.
+The material may be used only by Eurovision active members and sub-licensees.
 
 ## How to build and develop
 
 This is a Webpack + React project.
 
-* `npm install && npm start`
+* `npm install`
+* `npm start`
 
 Project should start at: http://localhost:8080
 
