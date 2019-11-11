@@ -21,6 +21,9 @@ It has been studied why influenza is more common during the winter. There are a 
 * Both influenza A and B type viruses were detected.
 * Data from the 20 countries or regions reporting to the EuroMOMO project indicated all-cause mortality to be at expected levels for this time of the year.
 
+**Links**
+* [News Exchange](https://news-exchange.ebu.ch/item_detail/8af94dfeab6503af94899e36275d5168/2019_21053647)
+
 **Sources**
 * [Earthnetworks](https://www.earthnetworks.com/blog/flu-season-strikes-winter)
 * [Flunewseurope](http://flunewseurope.org)
