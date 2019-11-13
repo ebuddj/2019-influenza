@@ -23,6 +23,7 @@ It has been studied why influenza is more common during the winter. There are a 
 
 **Links**
 * [News Exchange](https://news-exchange.ebu.ch/item_detail/8af94dfeab6503af94899e36275d5168/2019_21053647)
+* [News Exchange](https://news-exchange.ebu.ch/item_detail/6c8106cf4a213685a7688ebad3ca3c07/2019_21054613)
 
 **Sources**
 * [Earthnetworks](https://www.earthnetworks.com/blog/flu-season-strikes-winter)
