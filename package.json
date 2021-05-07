@@ -36,6 +36,6 @@
     "rc-slider": "^8.6.11",
     "react-number-format": "^4.4.1",
     "topojson": "^3.0.2",
-    "underscore": "^1.10.2"
+    "underscore": "^1.12.1"
   }
 }
